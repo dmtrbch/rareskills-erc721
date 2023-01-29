@@ -522,11 +522,11 @@
 			]
 		},
 		"contracts/NbaToddlers.sol": {
-			"keccak256": "0xa9554a1c8875b26e021682d0add6d562fdffe4eaab621bb1068bc146c160d2de",
+			"keccak256": "0x72b1114fd329da33f6265c9627033223f284b7aa2968ee0c2eb25288035c9859",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://4a052377b51defa192cf2cec896d30fc1761f3b29c0fa7dcdfa5cde8b86837ce",
-				"dweb:/ipfs/QmcLnjGjwWxKpAb28ZUNC2jdb8E32FpYDBeXhGJkpYFvF6"
+				"bzz-raw://d54a4f07b4dd9472e98a4f655fb2275152eeb133789793c6601ba7bf33f181cc",
+				"dweb:/ipfs/QmeZEvHfAC4VFf4fpjzCU64nGrSvGGqapSk5fnNkHU6TNZ"
 			]
 		}
 	},
